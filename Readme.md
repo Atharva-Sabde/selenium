@@ -5,12 +5,9 @@
 Selenium is a web automation framework.
 
 Other web automation frameworks do not support dynamic websites.
+![image](https://user-images.githubusercontent.com/67774570/118701626-905f3900-b831-11eb-85e4-47bb4f8fd77b.png)
+![image](https://user-images.githubusercontent.com/67774570/118701610-8b01ee80-b831-11eb-8ad8-602b6722ab04.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3724e22b-4479-403f-b1ff-68d2c1d67d0d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3724e22b-4479-403f-b1ff-68d2c1d67d0d/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f8dd0a5-7939-4c91-8024-307be47fe52c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f8dd0a5-7939-4c91-8024-307be47fe52c/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a15c2fa7-f4a1-464a-bf61-d4d48af843ea/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a15c2fa7-f4a1-464a-bf61-d4d48af843ea/Untitled.png)
 
 ```java
 //#run java
